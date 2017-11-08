@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#only h1{
+    background-color:lightcyan;
+    color: lightcoral;
+    font-family: 'Arvo', serif;
+    font-weight: 700;
+    font-size: 4em;
+}
+
+#only ul li{
+    display: inline-block;
+    list-style: none;
+    background-color: lightpink;
+    border: 3px dashed black;
+    border-collapse: collapse;
+    margin: 25px;
+}
+
+#only li a{
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+    font-size: 2em;
+    padding: 15px;
+    margin: 25px;
+    color: #fff;
+}

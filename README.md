@@ -27,35 +27,6 @@ This workshopper has 11 exercises that cover the most important aspects of HTML.
 * **FORMS** — creating of forms with control elements.
 * **STYLES AND SCRIPTS** — injecting styles and scripts on a page.
 
-## Requirements
-
-* [**Node.js**](node-url) >=6.0.0
-
-## Installation
-
-Open your terminal and run this command:
-
-```
-npm install -g learnyouhtml
-```
-
-Use `sudo` if you get an `EACCESS` error.
-
-## Usage
-
-Open your terminal and run the following command:
-
-```
-learnyouhtml
-```
-
-## License
-
-MIT © [Denys Dovhan](http://denysdovhan.com)
-
-<!-- References -->
-
-[html]: https://en.wikipedia.org/wiki/HTML
 
 <!-- Badges -->
 
